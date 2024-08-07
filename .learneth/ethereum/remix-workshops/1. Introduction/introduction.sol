@@ -18,4 +18,8 @@ contract Counter {
     function dec() public {
         count -= 1;
     }
+
+    //Assignment here
+    // To Compile the contract and deploy it on remix IDE
+
 }
