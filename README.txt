@@ -1,3 +1,8 @@
+
+'Code Directory Path'
+./.learneth/ethereum/remix-workshops
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
