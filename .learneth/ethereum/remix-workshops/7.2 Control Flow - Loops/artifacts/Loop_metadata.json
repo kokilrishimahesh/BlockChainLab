@@ -54,11 +54,11 @@
 	},
 	"sources": {
 		".learneth/ethereum/remix-workshops/7.2 Control Flow - Loops/loops.sol": {
-			"keccak256": "0x58737ec9250a18954c2449980a9ea8582d0c3bf53c57dfbaaf0a84406c40725e",
+			"keccak256": "0x105d280c32b9bca683aaf8fa2b87753b7a898d8b78c4d1dfe33f5ffbe231cb36",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5c946af11368d7a039b85acd3b7735370f68c1ec7d870e90b972291abe5944a3",
-				"dweb:/ipfs/QmakAejbGXySdLhz33Mbgs6w5h3wnBAg3PBCaJ2esQNUhH"
+				"bzz-raw://5e5d32c4691c1a25d0c58299497b4258777ae8b89b3dd792d8439a571cea3aea",
+				"dweb:/ipfs/QmfG76baMG3db46w1gbFqtKEzyX2hYC8wLxSG63wZ2x8vy"
 			]
 		}
 	},
