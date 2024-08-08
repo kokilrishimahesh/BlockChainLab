@@ -103,11 +103,11 @@
 	},
 	"sources": {
 		".learneth/ethereum/remix-workshops/5.2 Functions - View and Pure/viewAndPure.sol": {
-			"keccak256": "0x7535f7ab7551003321f1f0814604c7a121d5a62f4cbf2035a8d57f48ef7cbf68",
+			"keccak256": "0xdc15e5ade808c29c50e4989e1ae0a8f22c306cd0194f72c215b983e434852b4e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7577a5ef706c60d930db6d9f7b7318390ffb8e4d134c04f469e29e26e13402d5",
-				"dweb:/ipfs/QmY2o5jJsQWW4nLJo5fhM9D6PzfTUgnyBnBA5ESu7AKVaR"
+				"bzz-raw://65f84509a71368bd7e47abb07a294dd687246a2af1cd14e10f915a816f275674",
+				"dweb:/ipfs/QmdcXgiJGq9hYLJizgwhHzc4cG94pTmHAKcxc4ot8mkekH"
 			]
 		}
 	},

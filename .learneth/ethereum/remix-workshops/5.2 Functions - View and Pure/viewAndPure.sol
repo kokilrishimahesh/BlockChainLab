@@ -14,6 +14,8 @@ contract ViewAndPure {
         return i + j;
     }
 
+
+    // Assignment
     function addToX2(uint y) public {
         x += y;
     }
